@@ -28,6 +28,7 @@
 <body>
 
   <div id="verbo"></div>
+  <p id="contador">Correctos: 0 | Faltan: 68</p>
   <label>Pasado simple: <input id="pastSimple" /></label>
   <label>Pasado participio: <input id="pastParticiple" /></label>
   <label>Español: <input id="spanish" /></label>
@@ -111,9 +112,13 @@
     let pendientes = [...verbos];
     let verboActual;
 
+    let correctos = 0;
+    const total = verbos.length;
+
     function mostrarVerbo() {
       if (pendientes.length === 0) {
         document.getElementById('verbo').innerText = "¡Felicidades! Completaste todos los verbos correctamente.";
+        document.getElementById('contador').innerText = `Correctos: ${correctos} | Faltan: 0`;
         return;
       }
       verboActual = pendientes[Math.floor(Math.random() * pendientes.length)];
@@ -122,6 +127,7 @@
       document.getElementById('pastParticiple').value = "";
       document.getElementById('spanish').value = "";
       document.getElementById('resultado').innerText = "";
+      document.getElementById('contador').innerText = `Correctos: ${correctos} | Faltan: ${pendientes.length}`;
     }
 
     function verificar() {
@@ -140,6 +146,7 @@
         resultado.innerText = "¡Correcto!";
         resultado.className = "correcto";
         pendientes = pendientes.filter(v => v !== verboActual);
+        correctos++;
       } else {
         resultado.innerText = `Incorrecto. Era: ${verboActual.past} / ${verboActual.participle} / ${verboActual.spanish}`;
         resultado.className = "incorrecto";
