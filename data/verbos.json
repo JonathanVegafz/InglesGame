@@ -1,0 +1,1178 @@
+[
+    {
+        "infinitive": "accept",
+        "simple_past": "accepted",
+        "past_participle": "accepted",
+        "spanish": "aceptar"
+    },
+    {
+        "infinitive": "achieve",
+        "simple_past": "achieved",
+        "past_participle": "achieved",
+        "spanish": "lograr"
+    },
+    {
+        "infinitive": "add",
+        "simple_past": "added",
+        "past_participle": "added",
+        "spanish": "añadir"
+    },
+    {
+        "infinitive": "admit",
+        "simple_past": "admitted",
+        "past_participle": "admitted",
+        "spanish": "admitir"
+    },
+    {
+        "infinitive": "advise",
+        "simple_past": "advised",
+        "past_participle": "advised",
+        "spanish": "aconsejar"
+    },
+    {
+        "infinitive": "allow",
+        "simple_past": "allowed",
+        "past_participle": "allowed",
+        "spanish": "permitir"
+    },
+    {
+        "infinitive": "answer",
+        "simple_past": "answered",
+        "past_participle": "answered",
+        "spanish": "responder"
+    },
+    {
+        "infinitive": "appear",
+        "simple_past": "appeared",
+        "past_participle": "appeared",
+        "spanish": "aparecer"
+    },
+    {
+        "infinitive": "apply",
+        "simple_past": "applied",
+        "past_participle": "applied",
+        "spanish": "aplicar"
+    },
+    {
+        "infinitive": "arrive",
+        "simple_past": "arrived",
+        "past_participle": "arrived",
+        "spanish": "llegar"
+    },
+    {
+        "infinitive": "ask",
+        "simple_past": "asked",
+        "past_participle": "asked",
+        "spanish": "preguntar"
+    },
+    {
+        "infinitive": "attack",
+        "simple_past": "attacked",
+        "past_participle": "attacked",
+        "spanish": "atacar"
+    },
+    {
+        "infinitive": "avoid",
+        "simple_past": "avoided",
+        "past_participle": "avoided",
+        "spanish": "evitar"
+    },
+    {
+        "infinitive": "bake",
+        "simple_past": "baked",
+        "past_participle": "baked",
+        "spanish": "hornear"
+    },
+    {
+        "infinitive": "be",
+        "simple_past": "was/were",
+        "past_participle": "been",
+        "spanish": "ser/estar"
+    },
+    {
+        "infinitive": "become",
+        "simple_past": "became",
+        "past_participle": "become",
+        "spanish": "convertirse"
+    },
+    {
+        "infinitive": "begin",
+        "simple_past": "began",
+        "past_participle": "begun",
+        "spanish": "empezar"
+    },
+    {
+        "infinitive": "believe",
+        "simple_past": "believed",
+        "past_participle": "believed",
+        "spanish": "creer"
+    },
+    {
+        "infinitive": "belong",
+        "simple_past": "belonged",
+        "past_participle": "belonged",
+        "spanish": "pertenecer"
+    },
+    {
+        "infinitive": "break",
+        "simple_past": "broke",
+        "past_participle": "broken",
+        "spanish": "romper"
+    },
+    {
+        "infinitive": "bring",
+        "simple_past": "brought",
+        "past_participle": "brought",
+        "spanish": "traer"
+    },
+    {
+        "infinitive": "build",
+        "simple_past": "built",
+        "past_participle": "built",
+        "spanish": "construir"
+    },
+    {
+        "infinitive": "buy",
+        "simple_past": "bought",
+        "past_participle": "bought",
+        "spanish": "comprar"
+    },
+    {
+        "infinitive": "call",
+        "simple_past": "called",
+        "past_participle": "called",
+        "spanish": "llamar"
+    },
+    {
+        "infinitive": "carry",
+        "simple_past": "carried",
+        "past_participle": "carried",
+        "spanish": "llevar"
+    },
+    {
+        "infinitive": "catch",
+        "simple_past": "caught",
+        "past_participle": "caught",
+        "spanish": "atrapar"
+    },
+    {
+        "infinitive": "change",
+        "simple_past": "changed",
+        "past_participle": "changed",
+        "spanish": "cambiar"
+    },
+    {
+        "infinitive": "choose",
+        "simple_past": "chose",
+        "past_participle": "chosen",
+        "spanish": "elegir"
+    },
+    {
+        "infinitive": "clean",
+        "simple_past": "cleaned",
+        "past_participle": "cleaned",
+        "spanish": "limpiar"
+    },
+    {
+        "infinitive": "climb",
+        "simple_past": "climbed",
+        "past_participle": "climbed",
+        "spanish": "escalar"
+    },
+    {
+        "infinitive": "close",
+        "simple_past": "closed",
+        "past_participle": "closed",
+        "spanish": "cerrar"
+    },
+    {
+        "infinitive": "come",
+        "simple_past": "came",
+        "past_participle": "come",
+        "spanish": "venir"
+    },
+    {
+        "infinitive": "cook",
+        "simple_past": "cooked",
+        "past_participle": "cooked",
+        "spanish": "cocinar"
+    },
+    {
+        "infinitive": "copy",
+        "simple_past": "copied",
+        "past_participle": "copied",
+        "spanish": "copiar"
+    },
+    {
+        "infinitive": "cost",
+        "simple_past": "cost",
+        "past_participle": "cost",
+        "spanish": "costar"
+    },
+    {
+        "infinitive": "count",
+        "simple_past": "counted",
+        "past_participle": "counted",
+        "spanish": "contar"
+    },
+    {
+        "infinitive": "create",
+        "simple_past": "created",
+        "past_participle": "created",
+        "spanish": "crear"
+    },
+    {
+        "infinitive": "cut",
+        "simple_past": "cut",
+        "past_participle": "cut",
+        "spanish": "cortar"
+    },
+    {
+        "infinitive": "dance",
+        "simple_past": "danced",
+        "past_participle": "danced",
+        "spanish": "bailar"
+    },
+    {
+        "infinitive": "decide",
+        "simple_past": "decided",
+        "past_participle": "decided",
+        "spanish": "decidir"
+    },
+    {
+        "infinitive": "deliver",
+        "simple_past": "delivered",
+        "past_participle": "delivered",
+        "spanish": "entregar"
+    },
+    {
+        "infinitive": "deny",
+        "simple_past": "denied",
+        "past_participle": "denied",
+        "spanish": "negar"
+    },
+    {
+        "infinitive": "describe",
+        "simple_past": "described",
+        "past_participle": "described",
+        "spanish": "describir"
+    },
+    {
+        "infinitive": "design",
+        "simple_past": "designed",
+        "past_participle": "designed",
+        "spanish": "diseñar"
+    },
+    {
+        "infinitive": "destroy",
+        "simple_past": "destroyed",
+        "past_participle": "destroyed",
+        "spanish": "destruir"
+    },
+    {
+        "infinitive": "develop",
+        "simple_past": "developed",
+        "past_participle": "developed",
+        "spanish": "desarrollar"
+    },
+    {
+        "infinitive": "die",
+        "simple_past": "died",
+        "past_participle": "died",
+        "spanish": "morir"
+    },
+    {
+        "infinitive": "discover",
+        "simple_past": "discovered",
+        "past_participle": "discovered",
+        "spanish": "descubrir"
+    },
+    {
+        "infinitive": "do",
+        "simple_past": "did",
+        "past_participle": "done",
+        "spanish": "hacer"
+    },
+    {
+        "infinitive": "draw",
+        "simple_past": "drew",
+        "past_participle": "drawn",
+        "spanish": "dibujar"
+    },
+    {
+        "infinitive": "dream",
+        "simple_past": "dreamed/dreamt",
+        "past_participle": "dreamed/dreamt",
+        "spanish": "soñar"
+    },
+    {
+        "infinitive": "drink",
+        "simple_past": "drank",
+        "past_participle": "drunk",
+        "spanish": "beber"
+    },
+    {
+        "infinitive": "drive",
+        "simple_past": "drove",
+        "past_participle": "driven",
+        "spanish": "conducir"
+    },
+    {
+        "infinitive": "eat",
+        "simple_past": "ate",
+        "past_participle": "eaten",
+        "spanish": "comer"
+    },
+    {
+        "infinitive": "enjoy",
+        "simple_past": "enjoyed",
+        "past_participle": "enjoyed",
+        "spanish": "disfrutar"
+    },
+    {
+        "infinitive": "explain",
+        "simple_past": "explained",
+        "past_participle": "explained",
+        "spanish": "explicar"
+    },
+    {
+        "infinitive": "fall",
+        "simple_past": "fell",
+        "past_participle": "fallen",
+        "spanish": "caer"
+    },
+    {
+        "infinitive": "feed",
+        "simple_past": "fed",
+        "past_participle": "fed",
+        "spanish": "alimentar"
+    },
+    {
+        "infinitive": "feel",
+        "simple_past": "felt",
+        "past_participle": "felt",
+        "spanish": "sentir"
+    },
+    {
+        "infinitive": "fight",
+        "simple_past": "fought",
+        "past_participle": "fought",
+        "spanish": "pelear"
+    },
+    {
+        "infinitive": "find",
+        "simple_past": "found",
+        "past_participle": "found",
+        "spanish": "encontrar"
+    },
+    {
+        "infinitive": "finish",
+        "simple_past": "finished",
+        "past_participle": "finished",
+        "spanish": "terminar"
+    },
+    {
+        "infinitive": "fit",
+        "simple_past": "fit/fitted",
+        "past_participle": "fit/fitted",
+        "spanish": "encajar"
+    },
+    {
+        "infinitive": "fly",
+        "simple_past": "flew",
+        "past_participle": "flown",
+        "spanish": "volar"
+    },
+    {
+        "infinitive": "forget",
+        "simple_past": "forgot",
+        "past_participle": "forgotten",
+        "spanish": "olvidar"
+    },
+    {
+        "infinitive": "forgive",
+        "simple_past": "forgave",
+        "past_participle": "forgiven",
+        "spanish": "perdonar"
+    },
+    {
+        "infinitive": "freeze",
+        "simple_past": "froze",
+        "past_participle": "frozen",
+        "spanish": "congelar"
+    },
+    {
+        "infinitive": "get",
+        "simple_past": "got",
+        "past_participle": "got/gotten",
+        "spanish": "obtener"
+    },
+    {
+        "infinitive": "give",
+        "simple_past": "gave",
+        "past_participle": "given",
+        "spanish": "dar"
+    },
+    {
+        "infinitive": "go",
+        "simple_past": "went",
+        "past_participle": "gone",
+        "spanish": "ir"
+    },
+    {
+        "infinitive": "grow",
+        "simple_past": "grew",
+        "past_participle": "grown",
+        "spanish": "crecer"
+    },
+    {
+        "infinitive": "guess",
+        "simple_past": "guessed",
+        "past_participle": "guessed",
+        "spanish": "adivinar"
+    },
+    {
+        "infinitive": "happen",
+        "simple_past": "happened",
+        "past_participle": "happened",
+        "spanish": "suceder"
+    },
+    {
+        "infinitive": "hate",
+        "simple_past": "hated",
+        "past_participle": "hated",
+        "spanish": "odiar"
+    },
+    {
+        "infinitive": "have",
+        "simple_past": "had",
+        "past_participle": "had",
+        "spanish": "tener"
+    },
+    {
+        "infinitive": "hear",
+        "simple_past": "heard",
+        "past_participle": "heard",
+        "spanish": "oír"
+    },
+    {
+        "infinitive": "help",
+        "simple_past": "helped",
+        "past_participle": "helped",
+        "spanish": "ayudar"
+    },
+    {
+        "infinitive": "hide",
+        "simple_past": "hid",
+        "past_participle": "hidden",
+        "spanish": "esconder"
+    },
+    {
+        "infinitive": "hit",
+        "simple_past": "hit",
+        "past_participle": "hit",
+        "spanish": "golpear"
+    },
+    {
+        "infinitive": "hold",
+        "simple_past": "held",
+        "past_participle": "held",
+        "spanish": "sostener"
+    },
+    {
+        "infinitive": "hope",
+        "simple_past": "hoped",
+        "past_participle": "hoped",
+        "spanish": "esperar"
+    },
+    {
+        "infinitive": "hug",
+        "simple_past": "hugged",
+        "past_participle": "hugged",
+        "spanish": "abrazar"
+    },
+    {
+        "infinitive": "hurt",
+        "simple_past": "hurt",
+        "past_participle": "hurt",
+        "spanish": "herir"
+    },
+    {
+        "infinitive": "imagine",
+        "simple_past": "imagined",
+        "past_participle": "imagined",
+        "spanish": "imaginar"
+    },
+    {
+        "infinitive": "improve",
+        "simple_past": "improved",
+        "past_participle": "improved",
+        "spanish": "mejorar"
+    },
+    {
+        "infinitive": "include",
+        "simple_past": "included",
+        "past_participle": "included",
+        "spanish": "incluir"
+    },
+    {
+        "infinitive": "increase",
+        "simple_past": "increased",
+        "past_participle": "increased",
+        "spanish": "incrementar"
+    },
+    {
+        "infinitive": "invite",
+        "simple_past": "invited",
+        "past_participle": "invited",
+        "spanish": "invitar"
+    },
+    {
+        "infinitive": "jump",
+        "simple_past": "jumped",
+        "past_participle": "jumped",
+        "spanish": "saltar"
+    },
+    {
+        "infinitive": "keep",
+        "simple_past": "kept",
+        "past_participle": "kept",
+        "spanish": "mantener"
+    },
+    {
+        "infinitive": "kick",
+        "simple_past": "kicked",
+        "past_participle": "kicked",
+        "spanish": "patear"
+    },
+    {
+        "infinitive": "kill",
+        "simple_past": "killed",
+        "past_participle": "killed",
+        "spanish": "matar"
+    },
+    {
+        "infinitive": "kiss",
+        "simple_past": "kissed",
+        "past_participle": "kissed",
+        "spanish": "besar"
+    },
+    {
+        "infinitive": "know",
+        "simple_past": "knew",
+        "past_participle": "known",
+        "spanish": "saber/conocer"
+    },
+    {
+        "infinitive": "laugh",
+        "simple_past": "laughed",
+        "past_participle": "laughed",
+        "spanish": "reír"
+    },
+    {
+        "infinitive": "learn",
+        "simple_past": "learned/learnt",
+        "past_participle": "learned/learnt",
+        "spanish": "aprender"
+    },
+    {
+        "infinitive": "leave",
+        "simple_past": "left",
+        "past_participle": "left",
+        "spanish": "dejar"
+    },
+    {
+        "infinitive": "lend",
+        "simple_past": "lent",
+        "past_participle": "lent",
+        "spanish": "prestar"
+    },
+    {
+        "infinitive": "let",
+        "simple_past": "let",
+        "past_participle": "let",
+        "spanish": "permitir/dejar"
+    },
+    {
+        "infinitive": "like",
+        "simple_past": "liked",
+        "past_participle": "liked",
+        "spanish": "gustar"
+    },
+    {
+        "infinitive": "listen",
+        "simple_past": "listened",
+        "past_participle": "listened",
+        "spanish": "escuchar"
+    },
+    {
+        "infinitive": "live",
+        "simple_past": "lived",
+        "past_participle": "lived",
+        "spanish": "vivir"
+    },
+    {
+        "infinitive": "look",
+        "simple_past": "looked",
+        "past_participle": "looked",
+        "spanish": "mirar"
+    },
+    {
+        "infinitive": "lose",
+        "simple_past": "lost",
+        "past_participle": "lost",
+        "spanish": "perder"
+    },
+    {
+        "infinitive": "love",
+        "simple_past": "loved",
+        "past_participle": "loved",
+        "spanish": "amar"
+    },
+    {
+        "infinitive": "make",
+        "simple_past": "made",
+        "past_participle": "made",
+        "spanish": "hacer"
+    },
+    {
+        "infinitive": "manage",
+        "simple_past": "managed",
+        "past_participle": "managed",
+        "spanish": "gestionar"
+    },
+    {
+        "infinitive": "marry",
+        "simple_past": "married",
+        "past_participle": "married",
+        "spanish": "casarse"
+    },
+    {
+        "infinitive": "mean",
+        "simple_past": "meant",
+        "past_participle": "meant",
+        "spanish": "significar"
+    },
+    {
+        "infinitive": "meet",
+        "simple_past": "met",
+        "past_participle": "met",
+        "spanish": "encontrar/conocer"
+    },
+    {
+        "infinitive": "miss",
+        "simple_past": "missed",
+        "past_participle": "missed",
+        "spanish": "extrañar/perder"
+    },
+    {
+        "infinitive": "move",
+        "simple_past": "moved",
+        "past_participle": "moved",
+        "spanish": "mover"
+    },
+    {
+        "infinitive": "need",
+        "simple_past": "needed",
+        "past_participle": "needed",
+        "spanish": "necesitar"
+    },
+    {
+        "infinitive": "notice",
+        "simple_past": "noticed",
+        "past_participle": "noticed",
+        "spanish": "notar"
+    },
+    {
+        "infinitive": "offer",
+        "simple_past": "offered",
+        "past_participle": "offered",
+        "spanish": "ofrecer"
+    },
+    {
+        "infinitive": "open",
+        "simple_past": "opened",
+        "past_participle": "opened",
+        "spanish": "abrir"
+    },
+    {
+        "infinitive": "order",
+        "simple_past": "ordered",
+        "past_participle": "ordered",
+        "spanish": "ordenar/pedir"
+    },
+    {
+        "infinitive": "own",
+        "simple_past": "owned",
+        "past_participle": "owned",
+        "spanish": "poseer"
+    },
+    {
+        "infinitive": "paint",
+        "simple_past": "painted",
+        "past_participle": "painted",
+        "spanish": "pintar"
+    },
+    {
+        "infinitive": "pay",
+        "simple_past": "paid",
+        "past_participle": "paid",
+        "spanish": "pagar"
+    },
+    {
+        "infinitive": "plan",
+        "simple_past": "planned",
+        "past_participle": "planned",
+        "spanish": "planear"
+    },
+    {
+        "infinitive": "play",
+        "simple_past": "played",
+        "past_participle": "played",
+        "spanish": "jugar"
+    },
+    {
+        "infinitive": "prefer",
+        "simple_past": "preferred",
+        "past_participle": "preferred",
+        "spanish": "preferir"
+    },
+    {
+        "infinitive": "prepare",
+        "simple_past": "prepared",
+        "past_participle": "prepared",
+        "spanish": "preparar"
+    },
+    {
+        "infinitive": "promise",
+        "simple_past": "promised",
+        "past_participle": "promised",
+        "spanish": "prometer"
+    },
+    {
+        "infinitive": "protect",
+        "simple_past": "protected",
+        "past_participle": "protected",
+        "spanish": "proteger"
+    },
+    {
+        "infinitive": "prove",
+        "simple_past": "proved",
+        "past_participle": "proven/proved",
+        "spanish": "probar/demostrar"
+    },
+    {
+        "infinitive": "pull",
+        "simple_past": "pulled",
+        "past_participle": "pulled",
+        "spanish": "jalar"
+    },
+    {
+        "infinitive": "push",
+        "simple_past": "pushed",
+        "past_participle": "pushed",
+        "spanish": "empujar"
+    },
+    {
+        "infinitive": "put",
+        "simple_past": "put",
+        "past_participle": "put",
+        "spanish": "poner"
+    },
+    {
+        "infinitive": "rain",
+        "simple_past": "rained",
+        "past_participle": "rained",
+        "spanish": "llover"
+    },
+    {
+        "infinitive": "read",
+        "simple_past": "read",
+        "past_participle": "read",
+        "spanish": "leer"
+    },
+    {
+        "infinitive": "receive",
+        "simple_past": "received",
+        "past_participle": "received",
+        "spanish": "recibir"
+    },
+    {
+        "infinitive": "remember",
+        "simple_past": "remembered",
+        "past_participle": "remembered",
+        "spanish": "recordar"
+    },
+    {
+        "infinitive": "repeat",
+        "simple_past": "repeated",
+        "past_participle": "repeated",
+        "spanish": "repetir"
+    },
+    {
+        "infinitive": "replace",
+        "simple_past": "replaced",
+        "past_participle": "replaced",
+        "spanish": "reemplazar"
+    },
+    {
+        "infinitive": "reply",
+        "simple_past": "replied",
+        "past_participle": "replied",
+        "spanish": "responder"
+    },
+    {
+        "infinitive": "rest",
+        "simple_past": "rested",
+        "past_participle": "rested",
+        "spanish": "descansar"
+    },
+    {
+        "infinitive": "return",
+        "simple_past": "returned",
+        "past_participle": "returned",
+        "spanish": "regresar"
+    },
+    {
+        "infinitive": "ride",
+        "simple_past": "rode",
+        "past_participle": "ridden",
+        "spanish": "montar"
+    },
+    {
+        "infinitive": "ring",
+        "simple_past": "rang",
+        "past_participle": "rung",
+        "spanish": "sonar"
+    },
+    {
+        "infinitive": "rise",
+        "simple_past": "rose",
+        "past_participle": "risen",
+        "spanish": "elevarse"
+    },
+    {
+        "infinitive": "run",
+        "simple_past": "ran",
+        "past_participle": "run",
+        "spanish": "correr"
+    },
+    {
+        "infinitive": "save",
+        "simple_past": "saved",
+        "past_participle": "saved",
+        "spanish": "guardar/salvar"
+    },
+    {
+        "infinitive": "say",
+        "simple_past": "said",
+        "past_participle": "said",
+        "spanish": "decir"
+    },
+    {
+        "infinitive": "see",
+        "simple_past": "saw",
+        "past_participle": "seen",
+        "spanish": "ver"
+    },
+    {
+        "infinitive": "sell",
+        "simple_past": "sold",
+        "past_participle": "sold",
+        "spanish": "vender"
+    },
+    {
+        "infinitive": "send",
+        "simple_past": "sent",
+        "past_participle": "sent",
+        "spanish": "enviar"
+    },
+    {
+        "infinitive": "set",
+        "simple_past": "set",
+        "past_participle": "set",
+        "spanish": "colocar"
+    },
+    {
+        "infinitive": "shake",
+        "simple_past": "shook",
+        "past_participle": "shaken",
+        "spanish": "sacudir"
+    },
+    {
+        "infinitive": "share",
+        "simple_past": "shared",
+        "past_participle": "shared",
+        "spanish": "compartir"
+    },
+    {
+        "infinitive": "shoot",
+        "simple_past": "shot",
+        "past_participle": "shot",
+        "spanish": "disparar"
+    },
+    {
+        "infinitive": "show",
+        "simple_past": "showed",
+        "past_participle": "shown/showed",
+        "spanish": "mostrar"
+    },
+    {
+        "infinitive": "shut",
+        "simple_past": "shut",
+        "past_participle": "shut",
+        "spanish": "cerrar"
+    },
+    {
+        "infinitive": "sing",
+        "simple_past": "sang",
+        "past_participle": "sung",
+        "spanish": "cantar"
+    },
+    {
+        "infinitive": "sit",
+        "simple_past": "sat",
+        "past_participle": "sat",
+        "spanish": "sentarse"
+    },
+    {
+        "infinitive": "sleep",
+        "simple_past": "slept",
+        "past_participle": "slept",
+        "spanish": "dormir"
+    },
+    {
+        "infinitive": "smile",
+        "simple_past": "smiled",
+        "past_participle": "smiled",
+        "spanish": "sonreír"
+    },
+    {
+        "infinitive": "smoke",
+        "simple_past": "smoked",
+        "past_participle": "smoked",
+        "spanish": "fumar"
+    },
+    {
+        "infinitive": "speak",
+        "simple_past": "spoke",
+        "past_participle": "spoken",
+        "spanish": "hablar"
+    },
+    {
+        "infinitive": "spend",
+        "simple_past": "spent",
+        "past_participle": "spent",
+        "spanish": "gastar"
+    },
+    {
+        "infinitive": "stand",
+        "simple_past": "stood",
+        "past_participle": "stood",
+        "spanish": "estar de pie"
+    },
+    {
+        "infinitive": "start",
+        "simple_past": "started",
+        "past_participle": "started",
+        "spanish": "empezar"
+    },
+    {
+        "infinitive": "stay",
+        "simple_past": "stayed",
+        "past_participle": "stayed",
+        "spanish": "quedarse"
+    },
+    {
+        "infinitive": "steal",
+        "simple_past": "stole",
+        "past_participle": "stolen",
+        "spanish": "robar"
+    },
+    {
+        "infinitive": "stop",
+        "simple_past": "stopped",
+        "past_participle": "stopped",
+        "spanish": "detener"
+    },
+    {
+        "infinitive": "study",
+        "simple_past": "studied",
+        "past_participle": "studied",
+        "spanish": "estudiar"
+    },
+    {
+        "infinitive": "succeed",
+        "simple_past": "succeeded",
+        "past_participle": "succeeded",
+        "spanish": "tener éxito"
+    },
+    {
+        "infinitive": "suggest",
+        "simple_past": "suggested",
+        "past_participle": "suggested",
+        "spanish": "sugerir"
+    },
+    {
+        "infinitive": "support",
+        "simple_past": "supported",
+        "past_participle": "supported",
+        "spanish": "apoyar"
+    },
+    {
+        "infinitive": "suppose",
+        "simple_past": "supposed",
+        "past_participle": "supposed",
+        "spanish": "suponer"
+    },
+    {
+        "infinitive": "surprise",
+        "simple_past": "surprised",
+        "past_participle": "surprised",
+        "spanish": "sorprender"
+    },
+    {
+        "infinitive": "swim",
+        "simple_past": "swam",
+        "past_participle": "swum",
+        "spanish": "nadar"
+    },
+    {
+        "infinitive": "take",
+        "simple_past": "took",
+        "past_participle": "taken",
+        "spanish": "tomar"
+    },
+    {
+        "infinitive": "talk",
+        "simple_past": "talked",
+        "past_participle": "talked",
+        "spanish": "hablar"
+    },
+    {
+        "infinitive": "teach",
+        "simple_past": "taught",
+        "past_participle": "taught",
+        "spanish": "enseñar"
+    },
+    {
+        "infinitive": "tell",
+        "simple_past": "told",
+        "past_participle": "told",
+        "spanish": "decir/contar"
+    },
+    {
+        "infinitive": "think",
+        "simple_past": "thought",
+        "past_participle": "thought",
+        "spanish": "pensar"
+    },
+    {
+        "infinitive": "throw",
+        "simple_past": "threw",
+        "past_participle": "thrown",
+        "spanish": "lanzar"
+    },
+    {
+        "infinitive": "touch",
+        "simple_past": "touched",
+        "past_participle": "touched",
+        "spanish": "tocar"
+    },
+    {
+        "infinitive": "travel",
+        "simple_past": "traveled",
+        "past_participle": "traveled",
+        "spanish": "viajar"
+    },
+    {
+        "infinitive": "try",
+        "simple_past": "tried",
+        "past_participle": "tried",
+        "spanish": "intentar"
+    },
+    {
+        "infinitive": "turn",
+        "simple_past": "turned",
+        "past_participle": "turned",
+        "spanish": "girar"
+    },
+    {
+        "infinitive": "understand",
+        "simple_past": "understood",
+        "past_participle": "understood",
+        "spanish": "entender"
+    },
+    {
+        "infinitive": "use",
+        "simple_past": "used",
+        "past_participle": "used",
+        "spanish": "usar"
+    },
+    {
+        "infinitive": "visit",
+        "simple_past": "visited",
+        "past_participle": "visited",
+        "spanish": "visitar"
+    },
+    {
+        "infinitive": "wait",
+        "simple_past": "waited",
+        "past_participle": "waited",
+        "spanish": "esperar"
+    },
+    {
+        "infinitive": "wake",
+        "simple_past": "woke",
+        "past_participle": "woken",
+        "spanish": "despertar"
+    },
+    {
+        "infinitive": "walk",
+        "simple_past": "walked",
+        "past_participle": "walked",
+        "spanish": "caminar"
+    },
+    {
+        "infinitive": "want",
+        "simple_past": "wanted",
+        "past_participle": "wanted",
+        "spanish": "querer"
+    },
+    {
+        "infinitive": "watch",
+        "simple_past": "watched",
+        "past_participle": "watched",
+        "spanish": "mirar"
+    },
+    {
+        "infinitive": "win",
+        "simple_past": "won",
+        "past_participle": "won",
+        "spanish": "ganar"
+    },
+    {
+        "infinitive": "wish",
+        "simple_past": "wished",
+        "past_participle": "wished",
+        "spanish": "desear"
+    },
+    {
+        "infinitive": "work",
+        "simple_past": "worked",
+        "past_participle": "worked",
+        "spanish": "trabajar"
+    },
+    {
+        "infinitive": "worry",
+        "simple_past": "worried",
+        "past_participle": "worried",
+        "spanish": "preocuparse"
+    },
+    {
+        "infinitive": "write",
+        "simple_past": "wrote",
+        "past_participle": "written",
+        "spanish": "escribir"
+    }
+]
